@@ -1,0 +1,984 @@
+fileFormatVersion: 2
+guid: c4862e817e77f43d9be333150b216360
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5536359159821615352
+    second: pixel-art-vector-blood-splatter-animation-liquid-effusion-explosion-upward-side-shot-60693065_0
+  - first:
+      213: -8107872610552733795
+    second: pixel-art-vector-blood-splatter-animation-liquid-effusion-explosion-upward-side-shot-60693065_1
+  - first:
+      213: -251561443380106369
+    second: pixel-art-vector-blood-splatter-animation-liquid-effusion-explosion-upward-side-shot-60693065_2
+  - first:
+      213: -6491158409168974144
+    second: pixel-art-vector-blood-splatter-animation-liquid-effusion-explosion-upward-side-shot-60693065_3
+  - first:
+      213: -9110942751225453603
+    second: pixel-art-vector-blood-splatter-animation-liquid-effusion-explosion-upward-side-shot-60693065_4
+  - first:
+      213: 1889483869854969857
+    second: pixel-art-vector-blood-splatter-animation-liquid-effusion-explosion-upward-side-shot-60693065_5
+  - first:
+      213: 4603998671406706167
+    second: pixel-art-vector-blood-splatter-animation-liquid-effusion-explosion-upward-side-shot-60693065_6
+  - first:
+      213: -7362585613459026892
+    second: pixel-art-vector-blood-splatter-animation-liquid-effusion-explosion-upward-side-shot-60693065_7
+  - first:
+      213: 8937845005443050385
+    second: pixel-art-vector-blood-splatter-animation-liquid-effusion-explosion-upward-side-shot-60693065_8
+  - first:
+      213: -3554201998098064655
+    second: pixel-art-vector-blood-splatter-animation-liquid-effusion-explosion-upward-side-shot-60693065_9
+  - first:
+      213: 5488952707646175957
+    second: pixel-art-vector-blood-splatter-animation-liquid-effusion-explosion-upward-side-shot-60693065_10
+  - first:
+      213: 4339741409445453403
+    second: pixel-art-vector-blood-splatter-animation-liquid-effusion-explosion-upward-side-shot-60693065_11
+  - first:
+      213: -8359913219388305634
+    second: pixel-art-vector-blood-splatter-animation-liquid-effusion-explosion-upward-side-shot-60693065_12
+  - first:
+      213: 4979134789027088189
+    second: pixel-art-vector-blood-splatter-animation-liquid-effusion-explosion-upward-side-shot-60693065_13
+  - first:
+      213: 8925309723996614957
+    second: pixel-art-vector-blood-splatter-animation-liquid-effusion-explosion-upward-side-shot-60693065_14
+  - first:
+      213: 2629815954702138701
+    second: pixel-art-vector-blood-splatter-animation-liquid-effusion-explosion-upward-side-shot-60693065_15
+  - first:
+      213: 2355533205549466395
+    second: pixel-art-vector-blood-splatter-animation-liquid-effusion-explosion-upward-side-shot-60693065_16
+  - first:
+      213: 7997943922962565547
+    second: pixel-art-vector-blood-splatter-animation-liquid-effusion-explosion-upward-side-shot-60693065_17
+  - first:
+      213: 115122174809883572
+    second: pixel-art-vector-blood-splatter-animation-liquid-effusion-explosion-upward-side-shot-60693065_18
+  - first:
+      213: 1304923540801881793
+    second: pixel-art-vector-blood-splatter-animation-liquid-effusion-explosion-upward-side-shot-60693065_19
+  - first:
+      213: 6883855145726786341
+    second: pixel-art-vector-blood-splatter-animation-liquid-effusion-explosion-upward-side-shot-60693065_20
+  - first:
+      213: -2442011367810504359
+    second: pixel-art-vector-blood-splatter-animation-liquid-effusion-explosion-upward-side-shot-60693065_21
+  - first:
+      213: -8164386909737776407
+    second: pixel-art-vector-blood-splatter-animation-liquid-effusion-explosion-upward-side-shot-60693065_22
+  - first:
+      213: -1753352618049703688
+    second: pixel-art-vector-blood-splatter-animation-liquid-effusion-explosion-upward-side-shot-60693065_23
+  - first:
+      213: -4032011974139125317
+    second: pixel-art-vector-blood-splatter-animation-liquid-effusion-explosion-upward-side-shot-60693065_24
+  - first:
+      213: -8207503099572038987
+    second: pixel-art-vector-blood-splatter-animation-liquid-effusion-explosion-upward-side-shot-60693065_25
+  - first:
+      213: 6999040144690629242
+    second: pixel-art-vector-blood-splatter-animation-liquid-effusion-explosion-upward-side-shot-60693065_26
+  - first:
+      213: -9182873732318885218
+    second: pixel-art-vector-blood-splatter-animation-liquid-effusion-explosion-upward-side-shot-60693065_27
+  - first:
+      213: -5473000234716776452
+    second: pixel-art-vector-blood-splatter-animation-liquid-effusion-explosion-upward-side-shot-60693065_28
+  - first:
+      213: -7320885287955374641
+    second: pixel-art-vector-blood-splatter-animation-liquid-effusion-explosion-upward-side-shot-60693065_29
+  - first:
+      213: -6990372555120315730
+    second: pixel-art-vector-blood-splatter-animation-liquid-effusion-explosion-upward-side-shot-60693065_30
+  - first:
+      213: 5035471068508405543
+    second: pixel-art-vector-blood-splatter-animation-liquid-effusion-explosion-upward-side-shot-60693065_31
+  - first:
+      213: -5981377986930333448
+    second: pixel-art-vector-blood-splatter-animation-liquid-effusion-explosion-upward-side-shot-60693065_32
+  - first:
+      213: -4142162350721757661
+    second: pixel-art-vector-blood-splatter-animation-liquid-effusion-explosion-upward-side-shot-60693065_33
+  - first:
+      213: 4792171899746046200
+    second: pixel-art-vector-blood-splatter-animation-liquid-effusion-explosion-upward-side-shot-60693065_34
+  - first:
+      213: 2151684678864423362
+    second: pixel-art-vector-blood-splatter-animation-liquid-effusion-explosion-upward-side-shot-60693065_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pixel-art-vector-blood-splatter-animation-liquid-effusion-explosion-upward-side-shot-60693065_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 133.33333
+        width: 46.166668
+        height: 26.666666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f3ad15da6ea23b0800000000000000
+      internalID: -5536359159821615352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-vector-blood-splatter-animation-liquid-effusion-explosion-upward-side-shot-60693065_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 133.33333
+        width: 46.166668
+        height: 26.666666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f92eb61dc0b7f80800000000000000
+      internalID: -8107872610552733795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-vector-blood-splatter-animation-liquid-effusion-explosion-upward-side-shot-60693065_2
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 133.33333
+        width: 46.166668
+        height: 26.666666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7be4283336428cf0800000000000000
+      internalID: -251561443380106369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-vector-blood-splatter-animation-liquid-effusion-explosion-upward-side-shot-60693065_3
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 133.33333
+        width: 46.166668
+        height: 26.666666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce81b881d5cae5a0800000000000000
+      internalID: -6491158409168974144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-vector-blood-splatter-animation-liquid-effusion-explosion-upward-side-shot-60693065_4
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 133.33333
+        width: 46.166668
+        height: 26.666666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd36940f6dd6f8180800000000000000
+      internalID: -9110942751225453603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-vector-blood-splatter-animation-liquid-effusion-explosion-upward-side-shot-60693065_5
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 133.33333
+        width: 46.166668
+        height: 26.666666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1003987919bc83a10800000000000000
+      internalID: 1889483869854969857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-vector-blood-splatter-animation-liquid-effusion-explosion-upward-side-shot-60693065_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 107.333336
+        width: 46.166668
+        height: 26.666666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd219b0660b4ef30800000000000000
+      internalID: 4603998671406706167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-vector-blood-splatter-animation-liquid-effusion-explosion-upward-side-shot-60693065_7
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 107.333336
+        width: 46.166668
+        height: 26.666666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c8f59a467d2d990800000000000000
+      internalID: -7362585613459026892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-vector-blood-splatter-animation-liquid-effusion-explosion-upward-side-shot-60693065_8
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 89
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19baeee7daa990c70800000000000000
+      internalID: 8937845005443050385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-vector-blood-splatter-animation-liquid-effusion-explosion-upward-side-shot-60693065_9
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 88
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa916b1d10fcaec0800000000000000
+      internalID: -3554201998098064655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-vector-blood-splatter-animation-liquid-effusion-explosion-upward-side-shot-60693065_10
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 99
+        width: 29
+        height: 27
+      alignment: 9
+      pivot: {x: 0.42220008, y: 0.46686384}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da3b28e76dac2c40800000000000000
+      internalID: 5488952707646175957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-vector-blood-splatter-animation-liquid-effusion-explosion-upward-side-shot-60693065_11
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 107.333336
+        width: 46.166668
+        height: 26.666666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e9c07a1dbd93c30800000000000000
+      internalID: 4339741409445453403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-vector-blood-splatter-animation-liquid-effusion-explosion-upward-side-shot-60693065_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 81.333336
+        width: 46.166668
+        height: 26.666666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f844d383f9bfb80800000000000000
+      internalID: -8359913219388305634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-vector-blood-splatter-animation-liquid-effusion-explosion-upward-side-shot-60693065_13
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 81
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37cfb4c5b0791540800000000000000
+      internalID: 4979134789027088189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-vector-blood-splatter-animation-liquid-effusion-explosion-upward-side-shot-60693065_14
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 92
+        width: 22
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5387597, y: 0.5000004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d217829d7e11ddb70800000000000000
+      internalID: 8925309723996614957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-vector-blood-splatter-animation-liquid-effusion-explosion-upward-side-shot-60693065_15
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 80
+        width: 46
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4dfcac6dabfe7420800000000000000
+      internalID: 2629815954702138701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-vector-blood-splatter-animation-liquid-effusion-explosion-upward-side-shot-60693065_16
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 81.333336
+        width: 46.166668
+        height: 26.666666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13c96568f880b020800000000000000
+      internalID: 2355533205549466395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-vector-blood-splatter-animation-liquid-effusion-explosion-upward-side-shot-60693065_17
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 81.333336
+        width: 46.166668
+        height: 26.666666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba98dad7f976efe60800000000000000
+      internalID: 7997943922962565547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-vector-blood-splatter-animation-liquid-effusion-explosion-upward-side-shot-60693065_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 55.333336
+        width: 46.166668
+        height: 26.666666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3405f020ff89100800000000000000
+      internalID: 115122174809883572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-vector-blood-splatter-animation-liquid-effusion-explosion-upward-side-shot-60693065_19
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 55.333336
+        width: 46.166668
+        height: 26.666666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c68a8ceb050c1210800000000000000
+      internalID: 1304923540801881793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-vector-blood-splatter-animation-liquid-effusion-explosion-upward-side-shot-60693065_20
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 55.333336
+        width: 46.166668
+        height: 26.666666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b3a4668cd588f50800000000000000
+      internalID: 6883855145726786341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-vector-blood-splatter-animation-liquid-effusion-explosion-upward-side-shot-60693065_21
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 55.333336
+        width: 46.166668
+        height: 26.666666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959603c699b3c1ed0800000000000000
+      internalID: -2442011367810504359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-vector-blood-splatter-animation-liquid-effusion-explosion-upward-side-shot-60693065_22
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 55.333336
+        width: 46.166668
+        height: 26.666666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea0b34cc5542be80800000000000000
+      internalID: -8164386909737776407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-vector-blood-splatter-animation-liquid-effusion-explosion-upward-side-shot-60693065_23
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 55.333336
+        width: 46.166668
+        height: 26.666666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f075236517daa7e0800000000000000
+      internalID: -1753352618049703688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-vector-blood-splatter-animation-liquid-effusion-explosion-upward-side-shot-60693065_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 29.333334
+        width: 46.166668
+        height: 26.666666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1e057d87a6b08c0800000000000000
+      internalID: -4032011974139125317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-vector-blood-splatter-animation-liquid-effusion-explosion-upward-side-shot-60693065_25
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 29.333334
+        width: 46.166668
+        height: 26.666666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b257198a67191e80800000000000000
+      internalID: -8207503099572038987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-vector-blood-splatter-animation-liquid-effusion-explosion-upward-side-shot-60693065_26
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 29.333334
+        width: 46.166668
+        height: 26.666666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7acbf8dde5912160800000000000000
+      internalID: 6999040144690629242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-vector-blood-splatter-animation-liquid-effusion-explosion-upward-side-shot-60693065_27
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 26
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a0edf4ef0ef8080800000000000000
+      internalID: -9182873732318885218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-vector-blood-splatter-animation-liquid-effusion-explosion-upward-side-shot-60693065_28
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 24
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7b312a84ffb04b0800000000000000
+      internalID: -5473000234716776452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-vector-blood-splatter-animation-liquid-effusion-explosion-upward-side-shot-60693065_29
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 23
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd590a4e9df66a90800000000000000
+      internalID: -7320885287955374641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-vector-blood-splatter-animation-liquid-effusion-explosion-upward-side-shot-60693065_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3.333334
+        width: 46.166668
+        height: 26.666666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2f96c92353dfe90800000000000000
+      internalID: -6990372555120315730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-vector-blood-splatter-animation-liquid-effusion-explosion-upward-side-shot-60693065_31
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 3.333334
+        width: 46.166668
+        height: 26.666666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f333bf14691e540800000000000000
+      internalID: 5035471068508405543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-vector-blood-splatter-animation-liquid-effusion-explosion-upward-side-shot-60693065_32
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 3.333334
+        width: 46.166668
+        height: 26.666666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f82dad5960edfca0800000000000000
+      internalID: -5981377986930333448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-vector-blood-splatter-animation-liquid-effusion-explosion-upward-side-shot-60693065_33
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 3.333334
+        width: 46.166668
+        height: 26.666666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e8b33c9451486c0800000000000000
+      internalID: -4142162350721757661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-vector-blood-splatter-animation-liquid-effusion-explosion-upward-side-shot-60693065_34
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 3.333334
+        width: 46.166668
+        height: 26.666666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0d8fae3f6318240800000000000000
+      internalID: 4792171899746046200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-vector-blood-splatter-animation-liquid-effusion-explosion-upward-side-shot-60693065_35
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 3.333334
+        width: 46.166668
+        height: 26.666666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c94d58b0d15cdd10800000000000000
+      internalID: 2151684678864423362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
